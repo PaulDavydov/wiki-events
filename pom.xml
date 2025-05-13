@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>kafkaStuff</module>
+        <module>WikiProducer</module>
+        <module>WikiConsumer</module>
     </modules>
 
     <properties>
